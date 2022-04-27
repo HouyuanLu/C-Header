@@ -6,8 +6,6 @@
 #include <cstdio>
 #include <algorithm>
 #include <cstring>
-#include <stack>
-#include <queue>
 #include <cmath>
 int max(int a, int b){
     if(a>b){
